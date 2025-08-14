@@ -1,6 +1,7 @@
 # Metropolitan Museum of Art Collection Explorer
 
 A React application with Redux that displays data from the Metropolitan Museum of Art's public API. Explore over 400,000 artworks from the Met's collection with advanced search capabilities.
+<img width="1728" height="895" alt="image" src="https://github.com/user-attachments/assets/2ab01f84-8f13-4e9e-9bab-7a42d1719f88" />
 
 ## Features
 
